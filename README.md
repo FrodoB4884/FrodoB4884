@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @FrodoB4884
+- 👀 I’m interested in data analytics with python, and some small Unity and Godot games in my free time.
