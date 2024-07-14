@@ -1,5 +1,6 @@
-Hi there! 👋
-I'm a passionate developer who loves to explore and create in various domains of technology.
+Hi there, I am Eliot! 👋
+
+I am a computer science student with a strong passion for exploring and innovating across multiple areas of technology.
 
 In my free time, I enjoy crafting games using C# with Unity 🕹️ and GDScript with Godot 🎮. I have a strong proficiency in Python 🐍, which I use for a variety of projects including:
 - Web Scraping 🌐
