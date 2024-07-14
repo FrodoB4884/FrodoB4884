@@ -1,1 +1,17 @@
-In my free time I use C# with Unity and GDScript with Godot to make games. I also use html, css and Javascript from time to time, but I am most proficient in Python. I like to make web scrapers, data processors and occasionally a neural network. I also make UI using the PySimpleGUI library or Tkinter. Other libraries I have experience using are MatPlotLib and NumPy. When I'm making games with Godot or Unity I usually use retro style pixelated art which I make myself using Aseprite.
+Hi there! 👋
+I'm a passionate developer who loves to explore and create in various domains of technology.
+
+About Me
+In my free time, I enjoy crafting games using C# with Unity 🕹️ and GDScript with Godot 🎮. I have a strong proficiency in Python 🐍, which I use for a variety of projects including:
+- Web Scraping 🌐
+- Data Processing 📊
+- Neural Networks 🤖
+- Stock Trading Algorithms 📈
+I also dabble in web development using HTML 📄, CSS 🎨, and JavaScript 💻.
+
+Tools and Libraries
+Game Development: Unity 🛠️, Godot 🎲
+Python GUI: PySimpleGUI 🖥️, Tkinter 🪟
+Data Visualization: Matplotlib 📉
+Scientific Computing: NumPy 🔢
+When creating games, I often opt for a retro, pixelated art style 🎨, which I design myself using Aseprite 🖌️.
