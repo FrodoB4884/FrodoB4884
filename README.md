@@ -1,7 +1,6 @@
 Hi there! 👋
 I'm a passionate developer who loves to explore and create in various domains of technology.
 
-About Me
 In my free time, I enjoy crafting games using C# with Unity 🕹️ and GDScript with Godot 🎮. I have a strong proficiency in Python 🐍, which I use for a variety of projects including:
 - Web Scraping 🌐
 - Data Processing 📊
@@ -9,7 +8,7 @@ In my free time, I enjoy crafting games using C# with Unity 🕹️ and GDScript
 - Stock Trading Algorithms 📈
 I also dabble in web development using HTML 📄, CSS 🎨, and JavaScript 💻.
 
-Tools and Libraries
+Tools and Libraries I use:
 Game Development: Unity 🛠️, Godot 🎲
 Python GUI: PySimpleGUI 🖥️, Tkinter 🪟
 Data Visualization: Matplotlib 📉
