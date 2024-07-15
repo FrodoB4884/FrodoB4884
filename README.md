@@ -14,4 +14,4 @@ Game Development: Unity, Godot 🎲
 Python GUI: PySimpleGUI, Tkinter 🖥️
 Data Visualization: Matplotlib 📉
 Scientific Computing: NumPy 🔢
-When creating games, I usually use a retro, pixelated art style 🎨, and I make my assets myself using Aseprite 🖌️.
+When creating games, I usually use a retro, pixelated art style and I make my assets myself using Aseprite 👾.
