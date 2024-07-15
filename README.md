@@ -10,8 +10,9 @@ In my free time, I enjoy making games using C# with Unity 🕹️ and GDScript w
 I also dabble in web development using HTML 📄, CSS 🎨, and JavaScript 💻.
 
 Tools and Libraries I use:
-\nGame Development: Unity, Godot 🎲
-\nPython GUI: PySimpleGUI, Tkinter 🖥️
-\nData Visualization: Matplotlib 📉
-\nScientific Computing: NumPy 🔢
-\nWhen creating games, I usually use a retro, pixelated art style and I make my assets myself using Aseprite 👾.
+
+Game Development: Unity, Godot 🎲
+- Python GUI: PySimpleGUI, Tkinter 🖥️
+- Data Visualization: Matplotlib 📉
+- Scientific Computing: NumPy 🔢
+And when I am creating games, I usually use a retro, pixelated art style and I make my assets myself using Aseprite 👾.
