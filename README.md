@@ -18,3 +18,4 @@ Tools and Libraries I use:
 - Scientific Computing: NumPy 
 
 When I am creating games, I usually use a retro, pixelated art style and I make my assets myself using Aseprite.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrodoB4884)](https://github.com/FrodoB4884/github-readme-stats)
