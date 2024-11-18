@@ -19,6 +19,6 @@ Tools and Libraries I use:
 
 When I am creating games, I usually use a retro, pixelated art style and I make my assets myself using Aseprite.
 
-[![FrodoB4884's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrodoB4884)](https://github.com/FrodoB4884/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrodoB4884)](https://github.com/FrodoB4884/github-readme-stats)
 [![Project Euler](https://projecteuler.net/profile/FrodoB4884.png)](https://projecteuler.net/progress)
 
