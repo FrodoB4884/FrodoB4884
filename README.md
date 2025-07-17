@@ -6,6 +6,8 @@ In my free time, I enjoy making gamess using C# or GDScript in the Godot Engine.
 
 Currently I'm working on a lightweight inventory and sales management platform (LISP is the working name, but any suggestions are welcome) to help shops manage their stock and orders. My tech stack is HTMX and CSS for the front end and then Flask and Python for the backend with SQLite for the database.
 
+I have also been programmer for a Vex Robotics team and have developed my C++ skills as a result. I now use this for personal robotics projects such as my 3D printed robotic arm with 6 degrees of freedom using the st3215 servos. I designed the 3D printed casig myself as well as the custom wires to daisy chain the motors for data but still be able to supply sufficient power.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrodoB4884)](https://github.com/FrodoB4884/github-readme-stats)
 [![Project Euler](https://projecteuler.net/profile/FrodoB4884.png)](https://projecteuler.net/progress)
 
