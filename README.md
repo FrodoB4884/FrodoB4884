@@ -8,6 +8,8 @@ Currently I'm working on a lightweight inventory and sales management platform (
 
 I have also been programmer for a Vex Robotics team and have developed my C++ skills as a result. I now use this for personal robotics projects such as my 3D printed robotic arm with 6 degrees of freedom using the st3215 servos. I designed the 3D printed casig myself as well as the custom wires to daisy chain the motors for data but still be able to supply sufficient power.
 
+While Internet of Things projects are fun and interesting, it is much easier to work on all digital projects, especially when travelling.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrodoB4884)](https://github.com/FrodoB4884/github-readme-stats)
 [![Project Euler](https://projecteuler.net/profile/FrodoB4884.png)](https://projecteuler.net/progress)
 
