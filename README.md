@@ -2,7 +2,7 @@ Hi there, I am Eliot
 
 I started programming when I was about 10 years old and taught myself, with help from sites like w3schools and CodeAcademy along the way.
 
-In my free time, I enjoy making gamess using C# or GDScript in the Godot Engine. I have a strong proficiency in Python, which I use for a variety of projects. For any art or audio assets, I make them myself using Aseprite, my my clunky old piano and Audacity.
+In my free time, I enjoy making games using C# or GDScript in the Godot Engine. I have a strong proficiency in Python, which I use for a variety of projects. For any art or audio assets, I make them myself using Aseprite, my my clunky old piano and Audacity.
 
 Currently I'm working on a lightweight inventory and sales management platform (LISP is the working name, but any suggestions are welcome) to help shops manage their stock and orders. My tech stack is HTMX and CSS for the front end and then Flask and Python for the backend with SQLite for the database.
 
