@@ -1,3 +1,5 @@
 In process of rewriting this...
 
 [![FrodoB4884's GitHub stats](https://githubcard.com/FrodoB4884.svg?d=QPdYfMb4)](https://githubcard.com/FrodoB4884.svg?d=QPdYfMb4)
+
+![Codewars](https://github.r2v.ch/codewars?user=FrodoB4884&stroke=RED)
