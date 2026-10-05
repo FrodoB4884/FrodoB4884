@@ -5,7 +5,5 @@ Interesting in application of AI in robotics.
 
 Currently working on:
  - Preparing a Cobot 320 M5 robot arm for AI model integration.
- - Completing my final project for the Harvard CS50p course
- - Working through Velleman's How to Prove It
-
-Everything here is learning in public, some of it will be wrong
+ - Working through Velleman's How to Prove It.
+ - Building basic programs from basics with NAND gates (learn more <a href=https://www.nand2tetris.org>here</a>).
